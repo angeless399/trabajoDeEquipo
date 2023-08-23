@@ -6,3 +6,5 @@ productos.html / Jose
 los estilos css / lucia
 
 IMPORTANTE: Anoten las novedades...
+
+Hola a todos! siendo las 15hs del 23/8 publico productos.html completo. Revisen a ver si todo esta bien
